@@ -1,3 +1,3 @@
 # DataFestAfrica2023-Datathon
 
-Read 'Our Process' Doc  to understand our process and the project
+Read 'Process Documentation' Doc  to understand our process, the project and the files in this repo
